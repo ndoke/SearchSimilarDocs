@@ -1,0 +1,190 @@
+[ {
+	"name" : "John Doe",
+	"specialty" : "Allergy and immunology",
+	"city" : "New York",
+	"state" : "New York",
+	"country" : "USA",
+	"reviewScore" : 7
+}, {
+	"name" : "Jack Hoffman",
+	"specialty" : "Adolescent medicine",
+	"city" : "Chicago",
+	"state" : "Illinois",
+	"country" : "USA",
+	"reviewScore" : 9
+}, {
+	"name" : "Peter Strauss",
+	"specialty" : "Anaesthesiology",
+	"city" : "Charlotte",
+	"state" : "North Carolina",
+	"country" : "USA",
+	"reviewScore" : 5
+}, {
+	"name" : "Richard Carey",
+	"specialty" : "Pathology",
+	"city" : "Detroit",
+	"state" : "Michigan",
+	"country" : "USA",
+	"reviewScore" : 7
+}, {
+	"name" : "Robert William",
+	"specialty" : "Cardiology",
+	"city" : "Los Angeles",
+	"state" : "California",
+	"country" : "USA",
+	"reviewScore" : 6
+}, {
+	"name" : "Anil Jadhav",
+	"specialty" : "Cardiothoracic surgery",
+	"city" : "Mumbai",
+	"state" : "Maharashtra",
+	"country" : "India",
+	"reviewScore" : 8
+}, {
+	"name" : "Rajesh Gupta",
+	"specialty" : "Clinical neurophysiology",
+	"city" : "Kanpur",
+	"state" : "Uttar Pradesh",
+	"country" : "India",
+	"reviewScore" : 6
+}, {
+	"name" : "Akash Iyer",
+	"specialty" : "Endocrinology",
+	"city" : "Chennai",
+	"state" : "Tamil Nadu",
+	"country" : "India",
+	"reviewScore" : 9
+}, {
+	"name" : "Vikas Singh",
+	"specialty" : "Gastroenterology",
+	"city" : "Ludhiana",
+	"state" : "Punjab",
+	"country" : "India",
+	"reviewScore" : 7
+}, {
+	"name" : "Vidyut Jamwal",
+	"specialty" : "General practice",
+	"city" : "Srinagar",
+	"state" : "Jammu & Kashmir",
+	"country" : "India",
+	"reviewScore" : 10
+}, {
+	"name" : "Jim Doe",
+	"specialty" : "Geriatrics",
+	"city" : "San Jose",
+	"state" : "California",
+	"country" : "USA",
+	"reviewScore" : 7
+}, {
+	"name" : "Chritina Hoffman",
+	"specialty" : "Obstetrics and gynaecology",
+	"city" : "Philadelphia",
+	"state" : "Pennsylvania",
+	"country" : "USA",
+	"reviewScore" : 9
+}, {
+	"name" : "Mike Strauss",
+	"specialty" : "Health informatics",
+	"city" : "Dallas",
+	"state" : "Texas",
+	"country" : "USA",
+	"reviewScore" : 5
+}, {
+	"name" : "Cross Carey",
+	"specialty" : "Hospice and palliative medicine",
+	"city" : "Grand Rapids",
+	"state" : "Michigan",
+	"country" : "USA",
+	"reviewScore" : 10
+}, {
+	"name" : "Romena William",
+	"specialty" : "Infectious disease",
+	"city" : "Seattle",
+	"state" : "Washington",
+	"country" : "USA",
+	"reviewScore" : 6
+}, {
+	"name" : "Akshay Joshi",
+	"specialty" : "Internal medicine",
+	"city" : "Thane",
+	"state" : "Maharashtra",
+	"country" : "India",
+	"reviewScore" : 8
+}, {
+	"name" : "Hitesh Gupta",
+	"specialty" : "Interventional radiology",
+	"city" : "Gurgaon",
+	"state" : "Haryana",
+	"country" : "India",
+	"reviewScore" : 6
+}, {
+	"name" : "Akash Nair",
+	"specialty" : "Microbiology",
+	"city" : "Kochi",
+	"state" : "Kerala",
+	"country" : "India",
+	"reviewScore" : 9
+}, {
+	"name" : "Prakash Singh Yadav",
+	"specialty" : "Nephrology",
+	"city" : "Nainital",
+	"state" : "Uttranchal",
+	"country" : "India",
+	"reviewScore" : 7
+}, {
+	"name" : "Pooja Singh",
+	"specialty" : "Neurology",
+	"city" : "Ranchi",
+	"state" : "Madhya Pradesh",
+	"country" : "India",
+	"reviewScore" : 10
+}, {
+	"name" : "Jane Margaret",
+	"specialty" : "Allergy and immunology",
+	"city" : "Piscataway",
+	"state" : "New Jersey",
+	"country" : "USA",
+	"reviewScore" : 10
+}, {
+	"name" : "Monica Hoffman",
+	"specialty" : "Adolescent medicine",
+	"city" : "Bennington",
+	"state" : "Vermont",
+	"country" : "USA",
+	"reviewScore" : 9
+}, {
+	"name" : "Patricia Louis",
+	"specialty" : "Anaesthesiology",
+	"city" : "Raleigh",
+	"state" : "North Carolina",
+	"country" : "USA",
+	"reviewScore" : 5
+}, {
+	"name" : "Ross Tayed",
+	"specialty" : "Pathology",
+	"city" : "Dearborne",
+	"state" : "Michigan",
+	"country" : "USA",
+	"reviewScore" : 10
+}, {
+	"name" : "Rosina Williams",
+	"specialty" : "Cardiology",
+	"city" : "Sacramento",
+	"state" : "California",
+	"country" : "USA",
+	"reviewScore" : 10
+}, {
+	"name" : "Anita Jadhav",
+	"specialty" : "Cardiothoracic surgery",
+	"city" : "Navi Mumbai",
+	"state" : "Maharashtra",
+	"country" : "India",
+	"reviewScore" : 5
+}, {
+	"name" : "Rajesh Gupta",
+	"specialty" : "Clinical neurophysiology",
+	"city" : "Kanpur",
+	"state" : "Uttar Pradesh",
+	"country" : "India",
+	"reviewScore" : 6
+} ]
